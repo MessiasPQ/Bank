@@ -1,0 +1,14 @@
+C:\Dev\Alura\BiteBank\bin\Debug\netcoreapp3.1\BiteBank.exe
+C:\Dev\Alura\BiteBank\bin\Debug\netcoreapp3.1\BiteBank.deps.json
+C:\Dev\Alura\BiteBank\bin\Debug\netcoreapp3.1\BiteBank.runtimeconfig.json
+C:\Dev\Alura\BiteBank\bin\Debug\netcoreapp3.1\BiteBank.runtimeconfig.dev.json
+C:\Dev\Alura\BiteBank\bin\Debug\netcoreapp3.1\BiteBank.dll
+C:\Dev\Alura\BiteBank\bin\Debug\netcoreapp3.1\BiteBank.pdb
+C:\Dev\Alura\BiteBank\obj\Debug\netcoreapp3.1\BiteBank.AssemblyInfoInputs.cache
+C:\Dev\Alura\BiteBank\obj\Debug\netcoreapp3.1\BiteBank.AssemblyInfo.cs
+C:\Dev\Alura\BiteBank\obj\Debug\netcoreapp3.1\BiteBank.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\BiteBank\obj\Debug\netcoreapp3.1\BiteBank.dll
+C:\Dev\Alura\BiteBank\obj\Debug\netcoreapp3.1\BiteBank.pdb
+C:\Dev\Alura\BiteBank\obj\Debug\netcoreapp3.1\BiteBank.genruntimeconfig.cache
+C:\Dev\Alura\BiteBank\obj\Debug\netcoreapp3.1\BiteBank.csproj.AssemblyReference.cache
+C:\Dev\Alura\BiteBank\obj\Debug\netcoreapp3.1\BiteBank.GeneratedMSBuildEditorConfig.editorconfig
